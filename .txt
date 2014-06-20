@@ -1,0 +1,147 @@
+    1  history
+    2  mkdir evaluacion
+    3  ls
+    4  cd evaluacion/
+    5  ls
+    6  git clone https://github.com/julioh/cursoasl.git
+    7  ls
+    8  cd cursoasl/
+    9  sl
+   10  ls
+   11  get dit evaluacion.txt
+   12  ge dit evaluacion.txt
+   13  nano evaluacion.txt
+   14  nano evaluacion.txt
+   15  git clone https://github.com/arteagajackson/actividadcursoasl.git
+   16  ls
+   17  cd actividadcursoasl/
+   18  ls
+   19  cd ..
+   20  ls
+   21  rm -rf actividadcursoasl
+   22  cd ..
+   23  git clone https://github.com/arteagajackson/actividadcursoasl.git
+   24  ls
+   25  cd cursoasl/
+   26  ls
+   27  cp evaluacion.txt /home/equipo14/evaluacion/actividadcursoasl/
+   28  cd ..
+   29  ls
+   30  cd actividadcursoasl/
+   31  ls
+   32  mb evaluacion.txt jacksonarteaga.txt
+   33  mv evaluacion.txt jacksonarteaga.txt
+   34  ls
+   35  cd ..
+   36  ls
+   37  cd actividadcursoasl/
+   38  ls
+   39  ls
+   40  cd..
+   41  cd ..
+   42  ls
+   43  cd cursoasl/
+   44  ls
+   45  nano jacksonarteaga.txt
+   46  nano jacksonarteaga.txt
+   47  nano jacksonarteaga.txt
+   48  cd ..
+   49  ls
+   50  cd  actividadcursoasl/
+   51  ls
+   52  ls
+   53  nano jacksonarteaga.txt 
+   54  git commit
+   55  nano jacksonarteaga.txt 
+   56  nano jacksonarteaga.txt 
+   57  touch curso1.txt curso2.txt curso3.txt curso4.txt curso5.txt
+   58  chmod 777 curso1.txt 
+   59  ls -la
+   60  chmod 061 curso1.txt 
+   61  chmod 726 curso1.txt 
+   62  chmod 061 curso1.txt 
+   63  chmod 726 curso2.txt 
+   64  chmod 111 curso3.txt 
+   65  chmod 227 curso4.txt 
+   66  chmod 074 curso5.txt 
+   67  ls -la
+   68  nano jacksonarteaga.txt 
+   69  cfdisk
+   70  nano jacksonarteaga.txt 
+   71  nano jacksonarteaga.txt 
+   72  nano jacksonarteaga.txt 
+   73  mkdir cunaguaro
+   74  cd cunaguaro/
+   75  ls
+   76  nano jacksonarteaga.txt 
+   77  cd ..
+   78  nano jacksonarteaga.txt 
+   79  cd cunaguaro/
+   80* locate kernel
+   81  locate cunaguaro >>cunaguaro.txt
+   82* 
+   83  nano cunaguaro.txt 
+   84  ls
+   85* ps -aux | grep cunaguaro 
+   86  locate cunaguaro >>cunaguaro.txt
+   87  nano jacksonarteaga.txt 
+   88  cd ..
+   89  nano jacksonarteaga.txt 
+   90  mkdir kernel
+   91  ls
+   92  cd ..
+   93  nano jacksonarteaga.txt 
+   94  cd cursoasl/
+   95  ls
+   96  nano jacksonarteaga.txt 
+   97  cd ..
+   98  ls
+   99  nano jacksonarteaga.txt 
+  100  cd actividadcursoasl/
+  101  nano jacksonarteaga.txt 
+  102  ps -aux | grep kernel >>kernel.txt
+  103  nano jacksonarteaga.txt 
+  104  mkdir kernel
+  105  cd ..
+  106  cd actividadcursoasl/
+  107  mkdir kernel
+  108  cd kernel/
+  109  ps -aux | grep kernel >>kernel.txt
+  110  cd ..
+  111  nano jacksonarteaga.txt 
+  112  cd kernel/
+  113  mv kernel kernel.0000
+  114  mv kernel/ kernel.0000
+  115  mv kernel/ kernel.0
+  116  cd ..
+  117  mv kernel kernel.0
+  118  nano jacksonarteaga.txt 
+  119  nano jacksonarteaga.txt 
+  120  man more
+  121  more examen
+  122  nano jacksonarteaga.txt 
+  123  mkdir sl
+  124  ls
+  125  apt-get source sl
+  126  ls 
+  127  cd sl-3.03/
+  128  ls
+  129  nano sl.
+  130  nano sl.h
+  131  cd ..
+  132  dpkg builpackage -us -uc
+  133  dpkg builpackage -us -uc
+  134  ls
+  135  cd sl-3.03/
+  136  dpkg builpackage -us -uc
+  137  dpkg - buildpacke -us -uc
+  138  dpkg-source  --commit
+  139  dpkg - buildpackage -us -uc
+  140  dpkg-buildpackage -us -uc
+  141  cd ..
+  142  nano jacksonarteaga.txt 
+  143  git add .
+  144  git commit
+  145  git commit -a
+  146  git push
+  147  history >>.txt
